@@ -1,2 +1,2 @@
 # raspberrypiw-msc-rubberducky
- a rubberducky for raspberry pi with (constant / ROM) storage
+ a rubberducky (target: Win7-10 x86-x64) for raspberry pi W with (constant / ROM) storage, not sure if it works with standard raspberry pi
